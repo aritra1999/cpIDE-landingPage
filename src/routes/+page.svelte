@@ -111,7 +111,7 @@
                     <div class="download-cards-container">
                         <div class="download-card border-left" align="center">
                             <img src={apple} alt="" class="download-icons mt-4 mb-5"><br>
-                            <a  href="#" class="btn btn-secondary mb-3 download-btn" role="button">
+                            <a  href="/" class="btn btn-secondary mb-3 download-btn" role="button">
                                 MacOS X <small>(Comming soon!)</small>
                                 <img src={downloadIcon} alt="^" class="dwnload-icon">
                             </a>
