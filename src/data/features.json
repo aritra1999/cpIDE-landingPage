@@ -1,0 +1,26 @@
+[
+	{
+		"feature": "Dead Simple",
+		"icon": "<svg xmlns='http://www.w3.org/2000/svg' width='32' height='32' viewBox='0 0 16 16'><g fill='none' stroke='currentColor' stroke-linecap='round' stroke-linejoin='round' stroke-width='1.5'><path d='M14.25 8.75c-.5 2.5-2.385 4.854-5.03 5.38A6.25 6.25 0 0 1 3.373 3.798C5.187 1.8 8.25 1.25 10.75 2.25'/><path d='m5.75 7.75l2.5 2.5l6-6.5'/></g></svg>"
+	},
+    {
+		"feature": "Cross Platform",
+		"icon": "<svg xmlns='http://www.w3.org/2000/svg' width='32' height='32' viewBox='0 0 24 24'><path fill='currentColor' d='M6.5 21q-1.45 0-2.475-1.025Q3 18.95 3 17.5q0-1.45 1.025-2.475Q5.05 14 6.5 14H8v-4H6.5q-1.45 0-2.475-1.025Q3 7.95 3 6.5q0-1.45 1.025-2.475Q5.05 3 6.5 3q1.45 0 2.475 1.025Q10 5.05 10 6.5V8h4V6.5q0-1.45 1.025-2.475Q16.05 3 17.5 3q1.45 0 2.475 1.025Q21 5.05 21 6.5q0 1.45-1.025 2.475Q18.95 10 17.5 10H16v4h1.5q1.45 0 2.475 1.025Q21 16.05 21 17.5q0 1.45-1.025 2.475Q18.95 21 17.5 21q-1.45 0-2.475-1.025Q14 18.95 14 17.5V16h-4v1.5q0 1.45-1.025 2.475Q7.95 21 6.5 21Zm0-2q.625 0 1.062-.438Q8 18.125 8 17.5V16H6.5q-.625 0-1.062.438Q5 16.875 5 17.5t.438 1.062Q5.875 19 6.5 19Zm11 0q.625 0 1.062-.438Q19 18.125 19 17.5t-.438-1.062Q18.125 16 17.5 16H16v1.5q0 .625.438 1.062q.437.438 1.062.438ZM10 14h4v-4h-4ZM6.5 8H8V6.5q0-.625-.438-1.062Q7.125 5 6.5 5t-1.062.438Q5 5.875 5 6.5t.438 1.062Q5.875 8 6.5 8ZM16 8h1.5q.625 0 1.062-.438Q19 7.125 19 6.5t-.438-1.062Q18.125 5 17.5 5t-1.062.438Q16 5.875 16 6.5Z'/></svg>"
+	},
+    {
+		"feature": "Smoother Workflow",
+		"icon": "<svg xmlns='http://www.w3.org/2000/svg' width='32' height='32' viewBox='0 0 24 24'><path fill='none' stroke='currentColor' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='M20.24 12.24a6 6 0 0 0-8.49-8.49L5 10.5V19h8.5zM16 8L2 22m15.5-7H9'/></svg>"
+	},
+    {
+		"feature": "Live Code Autocomplete",
+		"icon": "<svg xmlns='http://www.w3.org/2000/svg' width='32' height='32' viewBox='0 0 24 24'><path fill='currentColor' d='M9.99 11.01L9 8.83l-.99 2.18l-2.18.99l2.18.99l.99 2.18l.99-2.18l2.18-.99z' opacity='.3'/><path fill='currentColor' d='m19 9l1.25-2.75L23 5l-2.75-1.25L19 1l-1.25 2.75L15 5l2.75 1.25zm0 6l-1.25 2.75L15 19l2.75 1.25L19 23l1.25-2.75L23 19l-2.75-1.25zm-7.5-5.5L9 4L6.5 9.5L1 12l5.5 2.5L9 20l2.5-5.5L17 12l-5.5-2.5zm-1.51 3.49L9 15.17l-.99-2.18L5.83 12l2.18-.99L9 8.83l.99 2.18l2.18.99l-2.18.99z'/></svg>"
+	},
+    {
+		"feature": "Hackable",
+		"icon": "<svg xmlns='http://www.w3.org/2000/svg' width='32' height='32' viewBox='-4 -2 24 24'><path fill='currentColor' d='M3 18a1 1 0 1 0 0-2a1 1 0 0 0 0 2zm1-7.002v3.173a3.001 3.001 0 1 1-2 0V5.829a3.001 3.001 0 1 1 2 0v2.34c.312-.11.647-.17.997-.171l6.037-.006a1 1 0 0 0 .999-1V5.84A3.001 3.001 0 0 1 13 0a3 3 0 0 1 1.033 5.817v1.175a3 3 0 0 1-2.997 3l-6.037.006a1 1 0 0 0-.999 1zM3 4a1 1 0 1 0 0-2a1 1 0 0 0 0 2zm10 0a1 1 0 1 0 0-2a1 1 0 0 0 0 2z'/></svg>"
+	},
+    {
+		"feature": "39 Built in themes.",
+		"icon": "<svg xmlns='http://www.w3.org/2000/svg' width='32' height='32' viewBox='0 0 24 24'><path fill='currentColor' d='M12 3.1L7.05 8.05a7 7 0 1 0 9.9 0L12 3.1zm0-2.828l6.364 6.364a9 9 0 1 1-12.728 0L12 .272z'/></svg>"
+	}
+]
